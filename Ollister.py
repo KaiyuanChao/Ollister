@@ -3,11 +3,12 @@
 ==================================================
 Ollister - Ollama Model Lister and Explorer
         V 1.0: published on 2025-06-06 2:55am 
+        v 1.0.1:
 ==================================================
 
 A speedy GUI application for exploring and managing locally installed Ollama models.
 
-Author: John Coder 
+Author: Coder Johan
 GitHub: https://github.com/kaiyuanchao/ollister
 License: MIT
 
@@ -3091,7 +3092,7 @@ class AboutWindow:
         info_widgets = [
             ("Ollister v1.0", "title", (0, 8)),
             ("Speedy insights for local Ollama models.", None, None),
-            ("Author: John Coder 开源 超", None, (8, 0)),
+            ("Author: Coder Johan 开源 超", None, (8, 0)),
             ("GitHub:", None, (8, 0)),
         ]
 
@@ -3112,7 +3113,7 @@ class AboutWindow:
         url_entry.pack(anchor="w", pady=(0, 8))
 
         ttk.Button(main_frame, text="Copy URL", command=self._copy_url).pack(anchor="w", pady=(0, 8))
-        ttk.Label(main_frame, text="(c) 2024 - MIT License.").pack(anchor="w", pady=(8, 0))
+        ttk.Label(main_frame, text="(c) 2025 - MIT License.").pack(anchor="w", pady=(8, 0))
 
         # Add a separator
         ttk.Separator(main_frame, orient="horizontal").pack(fill="x", pady=10, padx=5)
