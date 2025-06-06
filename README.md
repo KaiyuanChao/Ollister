@@ -12,3 +12,7 @@ Tested on Windows 11 and MacOS.
 
 
 <img width="615" alt="TensorPlot" src="https://github.com/user-attachments/assets/1332b29a-c3cf-4d6e-9215-1dab7962ab10" />
+
+
+
+<img width="1494" alt="OLLISTER_Screenshot" src="https://github.com/user-attachments/assets/f897d809-8b71-44e3-8282-67e504021561" />
