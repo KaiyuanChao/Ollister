@@ -1,7 +1,7 @@
 # Ollister
 An intuitive Ollama model lister with a speedy GUI. 
 
-Low system requirements: A single python file, requiring Python 3.8 or higher, no external dependencies beyond the python standard library including tKinter.
+Low system requirements: A single python file, requiring Python 3.8 or higher, no external dependencies beyond the python standard library including Tkinter.
 
 Peek inside the details of Ollama's language models models on your system, with full tensor listings and an experimental pillow-plot where the tensors are colored by quantization type and grouped by layers.
 Expose all the embedded system prompts, chat templates, and hidden parameters.
