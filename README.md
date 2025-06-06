@@ -5,6 +5,9 @@ Low system requirements: A single python file, requiring Python 3.8 or higher, n
 
 Peek inside the details of Ollama's language models models on your system, with full tensor listings and an experimental pillow-plot where the tensors are colored by quantization type and grouped by layers.
 
+See how much hard drive space the models take up with the pie chart plot.
+Prune, start, or update them from the menu that pops up when you right-click the model name in the list.
+
 Tested on Windows 11 and MacOS.
 
 <img width="569" alt="PieChart_readme" src="https://github.com/user-attachments/assets/62749287-75de-4097-b4c9-17820e32349d" />
