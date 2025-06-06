@@ -8,3 +8,7 @@ Peek inside the large language models models on your system, with full tensor li
 Tested on Windows 11 and MacOS.
 
 <img width="569" alt="PieChart_readme" src="https://github.com/user-attachments/assets/62749287-75de-4097-b4c9-17820e32349d" />
+
+
+
+<img width="615" alt="TensorPlot" src="https://github.com/user-attachments/assets/1332b29a-c3cf-4d6e-9215-1dab7962ab10" />
