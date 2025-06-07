@@ -1,7 +1,7 @@
 # Ollister
 An intuitive Ollama model explorer/lister/manager with a speedy GUI. 
 
-See the technical details of Ollama's language models models on your system.
+See technical details for all Ollama's downloaded Large Language Models.
 Expose all the embedded system prompts, chat templates, and hidden parameters.
 With full tensor listings and an experimental pillow-plot where the tensors are colored according to quantization type and grouped by layers.
 
