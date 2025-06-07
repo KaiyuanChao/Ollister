@@ -7,6 +7,7 @@ Expose all the embedded system prompts, chat templates, and hidden parameters.
 With full tensor listings and an experimental pillow-plot where the tensors are colored according to quantization type and grouped by layers.
 See how much hard drive space the models take up with the pie chart plot.
 Prune, start, or update them directly with a right-click on any entry in the list of models.
+See exactly which files belong to which model - essential when backing up or moving models to other systems.
 
 Low system requirements: a single python file which works with Python 3.8 or higher, no external dependencies beyond the python standard library including Tkinter.
 
