@@ -1,5 +1,5 @@
 # Ollister
-An intuitive Ollama model lister with a speedy GUI. 
+An intuitive Ollama model explorer/lister/manager with a speedy GUI. 
 
 Low system requirements: A single python file, requiring Python 3.8 or higher, no external dependencies beyond the python standard library including Tkinter.
 
