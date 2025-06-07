@@ -3,8 +3,8 @@ An intuitive Ollama model explorer/lister/manager with a speedy GUI.
 
 See technical details for all Ollama's downloaded Large Language Models.
 Expose all the embedded system prompts, chat templates, and hidden parameters.
-With full tensor listings and an experimental pillow-plot where the tensors are colored according to quantization type and grouped by layers.
 
+With full tensor listings and an experimental pillow-plot where the tensors are colored according to quantization type and grouped by layers.
 See how much hard drive space the models take up with the pie chart plot.
 Prune, start, or update them directly with a right-click on any entry in the list of models.
 
